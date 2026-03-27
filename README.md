@@ -6,8 +6,6 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 ## THEORY
 Stock price prediction is an important task in financial analysis where future prices are estimated based on historical data. The objective of this project is to develop a Recurrent Neural Network (RNN) model using historical closing price data to capture temporal patterns and predict future stock prices, and to evaluate the model’s performance using appropriate metrics.
 
-## NEURAL NETWORK MODEL
-
 
 ## DESIGN STEPS
 ### STEP 1: 
